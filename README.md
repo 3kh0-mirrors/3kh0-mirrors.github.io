@@ -31,6 +31,8 @@ This will be updated whenever possible.
 
 ###### Other
 * [https://3kh0.ipiratealottastuff.repl.co/](https://3kh0.ipiratealottastuff.repl.co/)
+* [https://3kh0.idek29879890.repl.co/](https://3kh0.idek29879890.repl.co/)
+* [https://3kh0-rahib777-7.vercel.app/](https://3kh0-rahib777-7.vercel.app/)
 * [https://legalise_piracy.codeberg.page/](https://legalise_piracy.codeberg.page/)
 * [https://gray-sand-0ae3d2d10.2.azurestaticapps.net/](https://gray-sand-0ae3d2d10.2.azurestaticapps.net/)
 * [https://3kh0mirror.neocities.org/](https://3kh0mirror.neocities.org/)
