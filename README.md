@@ -30,6 +30,7 @@ This will be updated whenever possible.
 * [https://b46e6277.3kh0-v4.pages.dev/](https://b46e6277.3kh0-v4.pages.dev/)
 
 ###### Other
+* [https://3kh0.ipiratealottastuff.repl.co/](https://3kh0.ipiratealottastuff.repl.co/)
 * [https://legalise_piracy.codeberg.page/](https://legalise_piracy.codeberg.page/)
 * [https://gray-sand-0ae3d2d10.2.azurestaticapps.net/](https://gray-sand-0ae3d2d10.2.azurestaticapps.net/)
 * [https://3kh0mirror.neocities.org/](https://3kh0mirror.neocities.org/)
