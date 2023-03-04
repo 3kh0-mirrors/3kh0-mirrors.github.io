@@ -13,4 +13,20 @@ This will be updated whenever possible.
 * http://depositfiles.com/files/30bfay0fw
 
 ## Main website
+#### Premium Domains
 * https://69kho.radioactivepotato.me
+* https://3kho.radioactivepotato.me/
+* https://calculator.tcm.gay/
+
+#### Free Hosted Domains
+###### Netlify
+* https://3kh0.netlify.app/
+* https://threekh0.netlify.app/
+* https://capybara-is-cooooooooooooooooool.netlify.app/
+###### Cloudflare Pages
+* https://3kh0-is-hot.pages.dev/
+* https://b46e6277.3kh0-v4.pages.dev/
+###### Other
+* https://legalise_piracy.codeberg.page/
+* https://gray-sand-0ae3d2d10.2.azurestaticapps.net/
+* https://3kh0mirror.neocities.org/
