@@ -52,4 +52,4 @@ This will be updated whenever possible.
 * https://3kh0githubio-replit.winrarisyou.repl.co/
 * https://rahib777-7.github.io/3kh0replit/
 * https://3kh0.github.io/3kh0.github.io-replit/
-* https://3kh04ever.github.io/ (3kh0v3)
+* https://3kh04ever.github.io/
