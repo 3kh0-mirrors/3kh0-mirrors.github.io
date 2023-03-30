@@ -30,6 +30,7 @@ This will be updated whenever possible.
 * [https://capybara-is-cooooooooooooooooool.netlify.app/](https://capybara-is-cooooooooooooooooool.netlify.app/)
 * https://i-i-i-l-l-l-i-i-i-l-l-l-i-i-i.netlify.app/
 * https://3kh-05.netlify.app/
+* https://coolreadinggames.netlify.app/
 
 ###### Cloudflare Pages
 * [https://3kh0-is-hot.pages.dev/](https://3kh0-is-hot.pages.dev/)
