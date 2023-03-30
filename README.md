@@ -14,7 +14,7 @@ This will be updated whenever possible.
 
 * [http://depositfiles.com/files/30bfay0fw](http://depositfiles.com/files/30bfay0fw)
 
-* [https://archive.org/details/3kh0-3-4-2023] (https://archive.org/details/3kh0-3-4-2023)
+* https://archive.org/details/3kh0-3-4-2023
 
 ## Main website
 
