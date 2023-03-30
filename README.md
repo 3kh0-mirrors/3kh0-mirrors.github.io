@@ -22,7 +22,6 @@ This will be updated whenever possible.
 * [https://69kho.radioactivepotato.me](https://69kho.radioactivepotato.me)
 * [https://3kho.radioactivepotato.me/](https://3kho.radioactivepotato.me/)
 * [https://calculator.tcm.gay/](https://calculator.tcm.gay/)
-* https://3kh0.ultrawyatt.com/
 
 #### Free Hosted Domains
 ###### Netlify
