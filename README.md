@@ -14,6 +14,8 @@ This will be updated whenever possible.
 
 * [http://depositfiles.com/files/30bfay0fw](http://depositfiles.com/files/30bfay0fw)
 
+* https://archive.org/details/3kh0-3-4-2023
+
 ## Main website
 
 #### Premium Domains
@@ -26,6 +28,9 @@ This will be updated whenever possible.
 * [https://3kh0.netlify.app/](https://3kh0.netlify.app/)
 * [https://threekh0.netlify.app/](https://threekh0.netlify.app/)
 * [https://capybara-is-cooooooooooooooooool.netlify.app/](https://capybara-is-cooooooooooooooooool.netlify.app/)
+* https://i-i-i-l-l-l-i-i-i-l-l-l-i-i-i.netlify.app/
+* https://3kh-05.netlify.app/
+* https://coolreadinggames.netlify.app/
 
 ###### Cloudflare Pages
 * [https://3kh0-is-hot.pages.dev/](https://3kh0-is-hot.pages.dev/)
@@ -38,3 +43,25 @@ This will be updated whenever possible.
 * [https://legalise_piracy.codeberg.page/](https://legalise_piracy.codeberg.page/)
 * [https://gray-sand-0ae3d2d10.2.azurestaticapps.net/](https://gray-sand-0ae3d2d10.2.azurestaticapps.net/)
 * [https://3kh0mirror.neocities.org/](https://3kh0mirror.neocities.org/)
+* http://play451isthebest1.eu.org/
+* https://github.qdread.me/iloveeducation/
+* https://3kh0-v4.glitch.me/
+* https://malleable-imported-pocket.glitch.me/
+* https://plazzy.neocities.org/
+* https://3kh0githubio.devbubba.repl.co/
+* https://3kh0githubio-replit.winrarisyou.repl.co/
+* https://rahib777-7.github.io/3kh0replit/
+* https://3kh0.github.io/3kh0.github.io-replit/
+* https://3kh04ever.github.io/
+* http://3kh0.ultrawyatt.com/
+* https://adfree3kh0.github.io/
+* https://gamesforsite.github.io/
+* https://3kh0.bitbucket.io/
+* https://holgrave777.github.io/3kho.github.io/
+* https://simplygav.github.io/
+* https://d3zu69.github.io/Calculator.exe.github.io/
+* https://noahlubbers.github.io/Noahs-hacked-game/
+* https://vivanetwork.github.io/
+* https://gamer3.vercel.app/
+* https://falloutscript.github.io/3kh0.github.io-1/
+* https://bidoofery.github.io/renov8/index.html
