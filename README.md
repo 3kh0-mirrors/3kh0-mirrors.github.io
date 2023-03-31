@@ -54,3 +54,14 @@ This will be updated whenever possible.
 * https://3kh0.github.io/3kh0.github.io-replit/
 * https://3kh04ever.github.io/
 * http//3kh0.ultrawyatt.com/
+* https://adfree3kh0.github.io/
+* https://gamesforsite.github.io/
+* https://3kh0.bitbucket.io/
+* https://holgrave777.github.io/3kho.github.io/
+* https://simplygav.github.io/
+* https://d3zu69.github.io/Calculator.exe.github.io/
+* https://noahlubbers.github.io/Noahs-hacked-game/
+* https://vivanetwork.github.io/
+* https://gamer3.vercel.app/
+* https://falloutscript.github.io/3kh0.github.io-1/
+* https://bidoofery.github.io/renov8/index.html
