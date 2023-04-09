@@ -18,6 +18,8 @@ This will be updated whenever possible.
 
 * https://github.com/html5gfiles/html5gfiles.github.io
 
+* https://codeberg.org/LEGALISE_PIRACY/3kh0-assets
+
 ## Main website
 
 #### Premium Domains
