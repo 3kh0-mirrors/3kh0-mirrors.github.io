@@ -66,3 +66,4 @@ This will be updated whenever possible.
 * https://falloutscript.github.io/3kh0.github.io-1/
 * https://bidoofery.github.io/renov8/index.html
 * https://rahib777-7.github.io/3kh0TEMP/
+* https://1kh0.github.io/3kh0TEMP/
