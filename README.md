@@ -67,3 +67,7 @@ This will be updated whenever possible.
 * https://bidoofery.github.io/renov8/index.html
 * https://rahib777-7.github.io/3kh0TEMP/
 * https://1kh0.github.io/3kh0TEMP/
+* http://3kh2.vercel.app
+* https://dapperls-bot-dev.github.io/3kh0TEMP/
+* https://platformerio.netlify.app
+* https://platformeriov4.netlify.app
