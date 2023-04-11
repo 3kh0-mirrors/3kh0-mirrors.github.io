@@ -20,15 +20,10 @@ This will be updated whenever possible.
 
 * https://codeberg.org/LEGALISE_PIRACY/3kh0-assets
 
-## Main website
-
-#### Premium Domains
+## All domains
 * [https://69kho.radioactivepotato.me](https://69kho.radioactivepotato.me)
 * [https://3kho.radioactivepotato.me/](https://3kho.radioactivepotato.me/)
 * [https://calculator.tcm.gay/](https://calculator.tcm.gay/)
-
-#### Free Hosted Domains
-###### Netlify
 * [https://3kh0.netlify.app/](https://3kh0.netlify.app/)
 * [https://threekh0.netlify.app/](https://threekh0.netlify.app/)
 * [https://capybara-is-cooooooooooooooooool.netlify.app/](https://capybara-is-cooooooooooooooooool.netlify.app/)
@@ -36,12 +31,8 @@ This will be updated whenever possible.
 * https://3kh-05.netlify.app/
 * https://coolreadinggames.netlify.app/
 * https://3kh1.netlify.app/
-
-###### Cloudflare Pages
 * [https://3kh0-is-hot.pages.dev/](https://3kh0-is-hot.pages.dev/)
 * [https://b46e6277.3kh0-v4.pages.dev/](https://b46e6277.3kh0-v4.pages.dev/)
-
-###### Other
 * [https://3kh0.ipiratealottastuff.repl.co/](https://3kh0.ipiratealottastuff.repl.co/)
 * [https://3kh0.idek29879890.repl.co/](https://3kh0.idek29879890.repl.co/)
 * [https://3kh0-rahib777-7.vercel.app/](https://3kh0-rahib777-7.vercel.app/)
