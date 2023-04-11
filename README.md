@@ -20,7 +20,7 @@ This will be updated whenever possible.
 
 * https://codeberg.org/LEGALISE_PIRACY/3kh0-assets
 
-## All domains
+## All website mirrors
 * [https://69kho.radioactivepotato.me](https://69kho.radioactivepotato.me)
 * [https://3kho.radioactivepotato.me/](https://3kho.radioactivepotato.me/)
 * [https://calculator.tcm.gay/](https://calculator.tcm.gay/)
