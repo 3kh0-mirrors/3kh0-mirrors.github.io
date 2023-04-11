@@ -16,6 +16,10 @@ This will be updated whenever possible.
 
 * https://archive.org/details/3kh0-3-4-2023
 
+* https://github.com/html5gfiles/html5gfiles.github.io
+
+* https://codeberg.org/LEGALISE_PIRACY/3kh0-assets
+
 ## Main website
 
 #### Premium Domains
@@ -31,6 +35,7 @@ This will be updated whenever possible.
 * https://i-i-i-l-l-l-i-i-i-l-l-l-i-i-i.netlify.app/
 * https://3kh-05.netlify.app/
 * https://coolreadinggames.netlify.app/
+* https://3kh1.netlify.app/
 
 ###### Cloudflare Pages
 * [https://3kh0-is-hot.pages.dev/](https://3kh0-is-hot.pages.dev/)
@@ -65,3 +70,30 @@ This will be updated whenever possible.
 * https://gamer3.vercel.app/
 * https://falloutscript.github.io/3kh0.github.io-1/
 * https://bidoofery.github.io/renov8/index.html
+* https://rahib777-7.github.io/3kh0TEMP/
+* https://1kh0.github.io/3kh0TEMP/
+* http://3kh2.vercel.app
+* https://dapperls-bot-dev.github.io/3kh0TEMP/
+* https://platformerio.netlify.app
+* https://magenta-gnome-af4a73.netlify.app/
+* https://platformeriov4.netlify.app
+* https://poopman.vercel.app/
+* https://3kh0v4.vercel.app/
+* https://hilarious-meerkat-388974.netlify.app/
+* https://googlechrome.netlify.app/
+* https://main.d2hpq05m90d9fj.amplifyapp.com/
+* https://echorocksv4.vercel.app/
+* https://0kh0.netlify.app/
+* http://Best-education.netlify.app
+* https://3kho.netlify.app/
+* https://echorocks.netlify.app/
+* https://hilarious-meerkat-388974.netlify.app/
+* https://regal-monstera-602938.netlify.app/
+* https://1kh0.netlify.app/
+* https://3kh0-github-io-gold.vercel.app/
+* https://bofa-deez-nutz.github.io/projects.html
+* https://gamer3.vercel.app/
+* https://www.thedrcreeper.dev/
+* https://3kh0-seven.vercel.app/
+* https://adfree3kh0.github.io/projects.html
+* https://majestic-bienenstitch-799e21.netlify.app/projects.html
