@@ -12,6 +12,8 @@ This will be updated whenever possible.
 
 * [https://mega.nz/file/nyoBkLAb#2hNC5gdxVNrxeK-vJu-vGmpD5QwQ5NQKZ-Zpqkvoqj0](https://mega.nz/file/nyoBkLAb#2hNC5gdxVNrxeK-vJu-vGmpD5QwQ5NQKZ-Zpqkvoqj0)
 
+* https://sourceforge.net/projects/threekhoassets/
+
 * [http://depositfiles.com/files/30bfay0fw](http://depositfiles.com/files/30bfay0fw)
 
 * https://archive.org/details/3kh0-3-4-2023
