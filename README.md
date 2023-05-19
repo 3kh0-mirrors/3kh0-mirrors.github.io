@@ -12,6 +12,8 @@ This will be updated whenever possible.
 
 * [https://mega.nz/file/nyoBkLAb#2hNC5gdxVNrxeK-vJu-vGmpD5QwQ5NQKZ-Zpqkvoqj0](https://mega.nz/file/nyoBkLAb#2hNC5gdxVNrxeK-vJu-vGmpD5QwQ5NQKZ-Zpqkvoqj0)
 
+* https://sourceforge.net/projects/threekhoassets/
+
 * [http://depositfiles.com/files/30bfay0fw](http://depositfiles.com/files/30bfay0fw)
 
 * https://archive.org/details/3kh0-3-4-2023
@@ -97,3 +99,17 @@ This will be updated whenever possible.
 * https://3kh0-seven.vercel.app/
 * https://adfree3kh0.github.io/projects.html
 * https://majestic-bienenstitch-799e21.netlify.app/projects.html
+* https://xobte1-8080.csb.app/
+* https://codepen.io/Rahib777-7/full/xxyQpER
+* https://jmd-py.github.io/retro/
+* https://galacticnetwork.github.io/website-v2/
+* https://galacticnetwork.github.io/website-v4/
+* https://pureprofake.netlify.app
+* https://3kh0.sobi80.repl.co/
+* https://monospectial.github.io/
+* https://3kh0isnotcool.vercel.app/projects
+* https://3-kh-0-isnotcool-christianlucashayden-gmailcom.vercel.app/projects
+* https://itch.io/embed-upload/7718639?color=333333
+* https://3kh0githubio-replit-1.kanyenorth0525.repl.co
+* https://3kh3.netlify.app
+* 
